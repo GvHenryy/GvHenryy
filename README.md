@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Gustavo Henrique 👋
-Sou desenvolvedor trainne, e estou cursando análise e desenvolvimento de sistemas - 4° Período.
+FullStack Developer - PHP, Laravel, SQL, Js
+
 <hr></hr>
 
 ## Canais Digitais
