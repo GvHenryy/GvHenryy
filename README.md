@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo Henrique 👋
 
-🚀 Desenvolvedor FullStack com foco na criação de soluções robustas e eficientes utilizando PHP, Laravel, SQL e JavaScript. Apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
+🚀 Tech Lead, Desenvolvedor FullStack com foco na criação de soluções robustas e eficientes utilizando PHP, Laravel, SQL e JavaScript. Apaixonado por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ---
 
